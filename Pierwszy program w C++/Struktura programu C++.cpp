@@ -1,8 +1,8 @@
 #include <iostream>
 
-int main()
-{
-    std::cout<<"Witaj w programowaniu w c++";
+using namespace std; 
 
+int main() {
+    cout << "Witaj w programowaniu w C++!";
     return 0;
 }
